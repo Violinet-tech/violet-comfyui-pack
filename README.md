@@ -1,5 +1,7 @@
 # Violet ComfyUI pack
 
+> **This repository is archived.** The pack now lives in [Violinet-tech/solar-violet-nodes](https://github.com/Violinet-tech/solar-violet-nodes), which also bundles the image to image workflows. Use that one.
+
 A ComfyUI custom-node pack from [VIOLINET Tech](https://github.com/Violinet-tech): a LoRA loader that shows what you have loaded, and a model and LoRA browser that finds duplicates, fetches CivitAI details and works across every model folder ComfyUI knows about.
 
 ## What is in it
